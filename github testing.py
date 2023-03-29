@@ -1,3 +1,3 @@
 import turtle
 t = turtle.Turtle()
-t.forward(120)
+t.forward(80)
